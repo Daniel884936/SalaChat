@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "297617476932",
+    "firebase_url": "https://chatt-c04ea.firebaseio.com",
+    "project_id": "chatt-c04ea",
+    "storage_bucket": "chatt-c04ea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:297617476932:android:07eb78c514527a63d8db11",
+        "android_client_info": {
+          "package_name": "com.example.salachat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "297617476932-1aj1tiq2h0b57tdi71ehpdrqeph00u9v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnlCPx5j2kIA8wO6fkqguR7NBJ88i7rHU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "297617476932-1aj1tiq2h0b57tdi71ehpdrqeph00u9v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
