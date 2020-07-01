@@ -95,6 +95,7 @@ public class Chat extends AppCompatActivity {
                 reference.push().setValue(new MnesajeEnviar(edtMensaje.getText().toString(),"1",
                         txtNombre.getText().toString(),ServerValue.TIMESTAMP));
                 edtMensaje.setText("");
+                //coment
             }
         });
 
